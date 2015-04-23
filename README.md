@@ -1,1 +1,2 @@
-# ProjetGo
+# ProjetDjango-go
+
